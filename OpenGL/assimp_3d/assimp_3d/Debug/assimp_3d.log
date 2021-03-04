@@ -1,11 +1,1 @@
-﻿  real3d.cpp
-d:\computer graphics\projects\assimp_3d\assimp_3d\shader.h(38): warning C4101: “e”: 未引用的局部变量
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(71): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(137): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(138): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\computer graphics\projects\assimp_3d\assimp_3d\real3d.cpp(147): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-  assimp_3d.vcxproj -> D:\Computer Graphics\projects\assimp_3d\Debug\assimp_3d.exe
+﻿
